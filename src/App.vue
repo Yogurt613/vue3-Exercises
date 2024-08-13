@@ -3,7 +3,7 @@
 
 import TodoList1 from './components/todoList1.vue';
 import Shopcar from './components/shopcar.vue';
-
+import Test6 from './components/test6.vue';
 
 </script>
 
@@ -13,7 +13,7 @@ import Shopcar from './components/shopcar.vue';
   
     <todoList1/>
     <shopcar/>
-
+    <test6/>
   </div>
 </template>
 
